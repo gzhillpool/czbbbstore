@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.czbbb.cn/apks/CZBangStore.ipa</string>
+					<string>https://github.com/gzhillpool/czbbbstore/blob/master/CZBangStore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
