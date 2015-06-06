@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.czbang.czbangstore</string>
+				<string>cn.czbang.CZBangStore</string>
 				<key>bundle-version</key>
 				<string>1.1.1</string>
 				<key>kind</key>
