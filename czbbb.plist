@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/gzhillpool/czbbbstore/blob/master/CZBangStore.ipa</string>
+					<string>http://www.czbbb.cn/apks/CZBangStore0626.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.czbang.CZBangStore</string>
+				<string>cn.czbbb.czbangstore2</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
